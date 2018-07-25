@@ -1,0 +1,22 @@
+{
+    "name": "levcolortheme",
+    "displayName": "LevColorTheme",
+    "description": "Dark Blurred Color Theme",
+    "version": "0.0.1",
+    "publisher": "alexlevy0",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "alexlevy0",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alexlevy0-color-theme.json"
+            }
+        ]
+    }
+}
