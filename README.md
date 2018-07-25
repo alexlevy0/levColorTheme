@@ -1,4 +1,1 @@
-# Dimmed Blurred Color Theme
-## levcolortheme
-## VSCode Color Theme
-**Enjoy!**
+# VSCode Dimmed Blurred Color Theme - levcolortheme
